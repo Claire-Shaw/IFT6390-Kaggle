@@ -1,7 +1,8 @@
 ### Installation
 
 To set up environment:
-```conda install requirements.txt
+```
+conda install requirements.txt
 ```
 
 
